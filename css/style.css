@@ -1193,8 +1193,30 @@ line-height: 100px;
 }
 
 .button-link button{
-	color:#ffffff;
-	background-color: #375BC6;
+	color:#000000;
+	background-color: #ffd900;
 	font-size: 30px;
 	
+}
+
+.char-text{
+	text-align: left; 
+	font-size: 22px
+}
+.title-text{
+	text-align: left; 
+	font-size: 32px
+}
+.char-text-white{
+	text-align: left; 
+	font-size: 22px;
+	color: white;
+}
+.title-text-white{
+	text-align: left; 
+	font-size: 32px;
+	color: white;
+}
+.margin-title{
+	margin: 50px
 }
